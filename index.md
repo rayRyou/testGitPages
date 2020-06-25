@@ -22,5 +22,4 @@
 
 ## Our Project
 
-- 新型コロナウイルス質問bot
-- テイクアウトマップ柏
+| ![新型コロナウイルス質問bot](img/bot.png)| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
